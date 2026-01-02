@@ -7,6 +7,6 @@ import (
 
 func main() {
 	fmt.Println("I'm main func")
-	featuretext.FeatureText("TEXT")
+	featuretext.FeatureText("Text")
 	fmt.Println("End of main!")
 }
